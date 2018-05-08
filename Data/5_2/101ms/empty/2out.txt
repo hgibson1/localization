@@ -1,0 +1,182 @@
+State ID: 1 Timestamp 26
+	ID: 0 timestamp 26 State: 1 R: 14 G: 15 B: 13 C: 40
+	ID: 1 timestamp 26 State: 0 R: 11 G: 14 B: 12 C: 38
+	ID: 2 timestamp 26 State: 0 R: 7 G: 9 B: 7 C: 24
+	ID: 3 timestamp 26 State: 0 R: 0 G: 0 B: 0 C: 2
+	ID: 4 timestamp 26 State: 0 R: 10 G: 10 B: 9 C: 29
+	ID: 5 timestamp 26 State: 0 R: 10 G: 13 B: 10 C: 34
+	ID: 6 timestamp 26 State: 0 R: 1 G: 1 B: 0 C: 2
+	ID: 7 timestamp 26 State: 0 R: 1 G: 0 B: 0 C: 1
+	ID: 8 timestamp 26 State: 0 R: 4 G: 6 B: 5 C: 15
+	ID: 9 timestamp 26 State: 0 R: 5 G: 6 B: 5 C: 16
+	ID: 10 timestamp 26 State: 0 R: 1 G: 1 B: 1 C: 2
+	ID: 11 timestamp 26 State: 0 R: 0 G: 0 B: 0 C: 1
+
+State ID: 2 Timestamp 27
+	ID: 0 timestamp 27 State: 0 R: 78 G: 65 B: 43 C: 180
+	ID: 1 timestamp 27 State: 1 R: 45 G: 36 B: 26 C: 107
+	ID: 2 timestamp 27 State: 0 R: 36 G: 29 B: 19 C: 84
+	ID: 3 timestamp 27 State: 0 R: 27 G: 18 B: 11 C: 54
+	ID: 4 timestamp 27 State: 0 R: 47 G: 36 B: 24 C: 108
+	ID: 5 timestamp 27 State: 0 R: 47 G: 39 B: 25 C: 109
+	ID: 6 timestamp 27 State: 0 R: 30 G: 22 B: 13 C: 63
+	ID: 7 timestamp 27 State: 0 R: 22 G: 16 B: 9 C: 46
+	ID: 8 timestamp 27 State: 0 R: 37 G: 29 B: 19 C: 84
+	ID: 9 timestamp 27 State: 0 R: 37 G: 29 B: 19 C: 82
+	ID: 10 timestamp 27 State: 0 R: 28 G: 21 B: 13 C: 59
+	ID: 11 timestamp 27 State: 0 R: 22 G: 16 B: 10 C: 47
+
+State ID: 3 Timestamp 28
+	ID: 0 timestamp 28 State: 0 R: 53 G: 44 B: 31 C: 123
+	ID: 1 timestamp 28 State: 0 R: 52 G: 43 B: 30 C: 127
+	ID: 2 timestamp 28 State: 1 R: 40 G: 33 B: 21 C: 94
+	ID: 3 timestamp 28 State: 0 R: 31 G: 21 B: 13 C: 64
+	ID: 4 timestamp 28 State: 0 R: 45 G: 35 B: 24 C: 105
+	ID: 5 timestamp 28 State: 0 R: 49 G: 41 B: 27 C: 116
+	ID: 6 timestamp 28 State: 0 R: 34 G: 26 B: 16 C: 72
+	ID: 7 timestamp 28 State: 0 R: 27 G: 19 B: 12 C: 56
+	ID: 8 timestamp 28 State: 0 R: 38 G: 30 B: 20 C: 88
+	ID: 9 timestamp 28 State: 0 R: 39 G: 31 B: 21 C: 88
+	ID: 10 timestamp 28 State: 0 R: 32 G: 24 B: 16 C: 69
+	ID: 11 timestamp 28 State: 0 R: 26 G: 19 B: 12 C: 56
+
+State ID: 4 Timestamp 29
+	ID: 0 timestamp 29 State: 0 R: 41 G: 35 B: 25 C: 97
+	ID: 1 timestamp 29 State: 0 R: 67 G: 61 B: 41 C: 172
+	ID: 2 timestamp 29 State: 0 R: 44 G: 37 B: 24 C: 107
+	ID: 3 timestamp 29 State: 1 R: 29 G: 20 B: 12 C: 60
+	ID: 4 timestamp 29 State: 0 R: 36 G: 28 B: 20 C: 85
+	ID: 5 timestamp 29 State: 0 R: 41 G: 35 B: 24 C: 99
+	ID: 6 timestamp 29 State: 0 R: 31 G: 23 B: 14 C: 65
+	ID: 7 timestamp 29 State: 0 R: 26 G: 18 B: 11 C: 54
+	ID: 8 timestamp 29 State: 0 R: 30 G: 24 B: 16 C: 70
+	ID: 9 timestamp 29 State: 0 R: 32 G: 26 B: 17 C: 73
+	ID: 10 timestamp 29 State: 0 R: 28 G: 21 B: 13 C: 60
+	ID: 11 timestamp 29 State: 0 R: 25 G: 17 B: 11 C: 52
+
+State ID: 5 Timestamp 30
+	ID: 0 timestamp 30 State: 0 R: 24 G: 22 B: 17 C: 61
+	ID: 1 timestamp 30 State: 0 R: 23 G: 22 B: 17 C: 63
+	ID: 2 timestamp 30 State: 0 R: 20 G: 18 B: 13 C: 52
+	ID: 3 timestamp 30 State: 0 R: 19 G: 14 B: 8 C: 42
+	ID: 4 timestamp 30 State: 1 R: 20 G: 17 B: 13 C: 50
+	ID: 5 timestamp 30 State: 0 R: 23 G: 22 B: 16 C: 60
+	ID: 6 timestamp 30 State: 0 R: 14 G: 11 B: 7 C: 30
+	ID: 7 timestamp 30 State: 0 R: 13 G: 9 B: 6 C: 27
+	ID: 8 timestamp 30 State: 0 R: 14 G: 13 B: 9 C: 37
+	ID: 9 timestamp 30 State: 0 R: 16 G: 14 B: 10 C: 39
+	ID: 10 timestamp 30 State: 0 R: 13 G: 10 B: 6 C: 28
+	ID: 11 timestamp 30 State: 0 R: 12 G: 8 B: 5 C: 25
+
+State ID: 6 Timestamp 31
+	ID: 0 timestamp 31 State: 0 R: 53 G: 43 B: 30 C: 121
+	ID: 1 timestamp 31 State: 0 R: 43 G: 35 B: 26 C: 105
+	ID: 2 timestamp 31 State: 0 R: 35 G: 29 B: 19 C: 84
+	ID: 3 timestamp 31 State: 0 R: 25 G: 17 B: 10 C: 53
+	ID: 4 timestamp 31 State: 0 R: 51 G: 40 B: 27 C: 118
+	ID: 5 timestamp 31 State: 1 R: 49 G: 40 B: 26 C: 114
+	ID: 6 timestamp 31 State: 0 R: 32 G: 23 B: 14 C: 66
+	ID: 7 timestamp 31 State: 0 R: 23 G: 16 B: 10 C: 48
+	ID: 8 timestamp 31 State: 0 R: 46 G: 37 B: 23 C: 106
+	ID: 9 timestamp 31 State: 0 R: 41 G: 32 B: 21 C: 90
+	ID: 10 timestamp 31 State: 0 R: 30 G: 23 B: 14 C: 64
+	ID: 11 timestamp 31 State: 0 R: 25 G: 18 B: 11 C: 52
+
+State ID: 7 Timestamp 32
+	ID: 0 timestamp 32 State: 0 R: 47 G: 40 B: 28 C: 110
+	ID: 1 timestamp 32 State: 0 R: 43 G: 36 B: 26 C: 105
+	ID: 2 timestamp 32 State: 0 R: 36 G: 30 B: 20 C: 86
+	ID: 3 timestamp 32 State: 0 R: 27 G: 19 B: 11 C: 57
+	ID: 4 timestamp 32 State: 0 R: 43 G: 34 B: 23 C: 100
+	ID: 5 timestamp 32 State: 0 R: 68 G: 62 B: 37 C: 160
+	ID: 6 timestamp 32 State: 1 R: 33 G: 24 B: 15 C: 68
+	ID: 7 timestamp 32 State: 0 R: 25 G: 18 B: 11 C: 52
+	ID: 8 timestamp 32 State: 0 R: 39 G: 31 B: 20 C: 91
+	ID: 9 timestamp 32 State: 0 R: 39 G: 31 B: 20 C: 88
+	ID: 10 timestamp 32 State: 0 R: 31 G: 23 B: 15 C: 66
+	ID: 11 timestamp 32 State: 0 R: 26 G: 19 B: 12 C: 55
+
+State ID: 8 Timestamp 33
+	ID: 0 timestamp 33 State: 0 R: 41 G: 35 B: 25 C: 97
+	ID: 1 timestamp 33 State: 0 R: 40 G: 34 B: 25 C: 99
+	ID: 2 timestamp 33 State: 0 R: 38 G: 32 B: 21 C: 93
+	ID: 3 timestamp 33 State: 0 R: 29 G: 20 B: 12 C: 60
+	ID: 4 timestamp 33 State: 0 R: 37 G: 30 B: 21 C: 88
+	ID: 5 timestamp 33 State: 0 R: 58 G: 54 B: 33 C: 147
+	ID: 6 timestamp 33 State: 0 R: 35 G: 27 B: 17 C: 75
+	ID: 7 timestamp 33 State: 1 R: 27 G: 20 B: 12 C: 57
+	ID: 8 timestamp 33 State: 0 R: 34 G: 28 B: 18 C: 80
+	ID: 9 timestamp 33 State: 0 R: 37 G: 29 B: 20 C: 83
+	ID: 10 timestamp 33 State: 0 R: 32 G: 24 B: 16 C: 69
+	ID: 11 timestamp 33 State: 0 R: 29 G: 21 B: 13 C: 61
+
+State ID: 9 Timestamp 34
+	ID: 0 timestamp 34 State: 0 R: 38 G: 34 B: 24 C: 93
+	ID: 1 timestamp 34 State: 0 R: 40 G: 34 B: 24 C: 98
+	ID: 2 timestamp 34 State: 0 R: 38 G: 31 B: 21 C: 90
+	ID: 3 timestamp 34 State: 0 R: 35 G: 24 B: 15 C: 73
+	ID: 4 timestamp 34 State: 0 R: 34 G: 28 B: 20 C: 83
+	ID: 5 timestamp 34 State: 0 R: 41 G: 36 B: 24 C: 100
+	ID: 6 timestamp 34 State: 0 R: 36 G: 27 B: 17 C: 76
+	ID: 7 timestamp 34 State: 0 R: 45 G: 36 B: 21 C: 99
+	ID: 8 timestamp 34 State: 1 R: 30 G: 25 B: 16 C: 71
+	ID: 9 timestamp 34 State: 0 R: 35 G: 28 B: 19 C: 79
+	ID: 10 timestamp 34 State: 0 R: 34 G: 25 B: 16 C: 72
+	ID: 11 timestamp 34 State: 0 R: 33 G: 23 B: 15 C: 69
+
+State ID: 10 Timestamp 35
+	ID: 0 timestamp 35 State: 0 R: 50 G: 41 B: 29 C: 114
+	ID: 1 timestamp 35 State: 0 R: 42 G: 34 B: 25 C: 102
+	ID: 2 timestamp 35 State: 0 R: 34 G: 28 B: 18 C: 82
+	ID: 3 timestamp 35 State: 0 R: 25 G: 17 B: 10 C: 51
+	ID: 4 timestamp 35 State: 0 R: 47 G: 36 B: 24 C: 108
+	ID: 5 timestamp 35 State: 0 R: 49 G: 40 B: 26 C: 114
+	ID: 6 timestamp 35 State: 0 R: 32 G: 23 B: 14 C: 66
+	ID: 7 timestamp 35 State: 0 R: 23 G: 16 B: 9 C: 47
+	ID: 8 timestamp 35 State: 0 R: 53 G: 42 B: 28 C: 121
+	ID: 9 timestamp 35 State: 1 R: 44 G: 34 B: 22 C: 95
+	ID: 10 timestamp 35 State: 0 R: 32 G: 23 B: 14 C: 66
+	ID: 11 timestamp 35 State: 0 R: 27 G: 18 B: 11 C: 55
+
+State ID: 11 Timestamp 36
+	ID: 0 timestamp 36 State: 0 R: 46 G: 39 B: 28 C: 109
+	ID: 1 timestamp 36 State: 0 R: 42 G: 35 B: 25 C: 103
+	ID: 2 timestamp 36 State: 0 R: 37 G: 31 B: 20 C: 88
+	ID: 3 timestamp 36 State: 0 R: 27 G: 19 B: 11 C: 57
+	ID: 4 timestamp 36 State: 0 R: 43 G: 34 B: 24 C: 102
+	ID: 5 timestamp 36 State: 0 R: 50 G: 42 B: 27 C: 117
+	ID: 6 timestamp 36 State: 0 R: 35 G: 26 B: 16 C: 73
+	ID: 7 timestamp 36 State: 0 R: 25 G: 18 B: 11 C: 52
+	ID: 8 timestamp 36 State: 0 R: 45 G: 36 B: 23 C: 104
+	ID: 9 timestamp 36 State: 0 R: 75 G: 58 B: 37 C: 164
+	ID: 10 timestamp 36 State: 1 R: 35 G: 26 B: 17 C: 74
+	ID: 11 timestamp 36 State: 0 R: 31 G: 22 B: 14 C: 64
+
+State ID: 12 Timestamp 37
+	ID: 0 timestamp 37 State: 0 R: 43 G: 37 B: 26 C: 103
+	ID: 1 timestamp 37 State: 0 R: 42 G: 35 B: 25 C: 103
+	ID: 2 timestamp 37 State: 0 R: 38 G: 31 B: 20 C: 90
+	ID: 3 timestamp 37 State: 0 R: 31 G: 21 B: 13 C: 64
+	ID: 4 timestamp 37 State: 0 R: 40 G: 32 B: 22 C: 94
+	ID: 5 timestamp 37 State: 0 R: 49 G: 41 B: 27 C: 115
+	ID: 6 timestamp 37 State: 0 R: 37 G: 28 B: 17 C: 78
+	ID: 7 timestamp 37 State: 0 R: 30 G: 21 B: 13 C: 61
+	ID: 8 timestamp 37 State: 0 R: 39 G: 31 B: 20 C: 90
+	ID: 9 timestamp 37 State: 0 R: 58 G: 47 B: 30 C: 131
+	ID: 10 timestamp 37 State: 0 R: 57 G: 49 B: 31 C: 131
+	ID: 11 timestamp 37 State: 1 R: 34 G: 24 B: 15 C: 70
+
+State ID: 0 Timestamp 38
+	ID: 0 timestamp 38 State: 0 R: 39 G: 35 B: 25 C: 95
+	ID: 1 timestamp 38 State: 0 R: 40 G: 34 B: 25 C: 99
+	ID: 2 timestamp 38 State: 0 R: 38 G: 31 B: 21 C: 90
+	ID: 3 timestamp 38 State: 0 R: 33 G: 23 B: 14 C: 69
+	ID: 4 timestamp 38 State: 0 R: 35 G: 29 B: 20 C: 86
+	ID: 5 timestamp 38 State: 0 R: 44 G: 38 B: 25 C: 106
+	ID: 6 timestamp 38 State: 0 R: 37 G: 28 B: 17 C: 79
+	ID: 7 timestamp 38 State: 0 R: 34 G: 25 B: 15 C: 72
+	ID: 8 timestamp 38 State: 0 R: 34 G: 28 B: 18 C: 80
+	ID: 9 timestamp 38 State: 0 R: 40 G: 32 B: 21 C: 90
+	ID: 10 timestamp 38 State: 0 R: 40 G: 30 B: 20 C: 85
+	ID: 11 timestamp 38 State: 0 R: 49 G: 36 B: 22 C: 105
+
